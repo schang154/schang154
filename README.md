@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schang154
 - 👀 I’m interested in ... Web Development and Data Analytics
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... React, Redux, and improving data engineering skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shchang1128@gmail.com
 
