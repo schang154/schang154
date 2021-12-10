@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schang154
+- 👋 Hi, I’m Shih-Hung @schang154
 - 👀 I’m interested in ... Web Development and Data Analytics
 - 🌱 I’m currently learning ... React, Redux, and improving data engineering skills
 - 💞️ I’m looking to collaborate on ...
