@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shih-Hung @schang154
-- 👀 I’m interested in ... Web Development and Data Analytics
+- 👀 I’m interested in ... Software Development and Data Analytics
 - 🌱 I’m currently learning ... MERN stack with Redux
 - 📫 How to reach me ... shchang1128@gmail.com
 
